@@ -12,9 +12,10 @@ using Random = UnityEngine.Random;
 /*
  *  DISCLAIMER
  *
- * Due to short amount of time I got to the this project(4h) I had to use some bad practices to make it on time.
- * Also I did not had enough time to implement proper game structure i.e. State Machine object Pooling etc.
+ * Due to very short amount of time I got to the this project I had to use some bad practices to make it on time.
+ * Also I did not had enough time to implement proper game structure i.e. State Machine, Object Pooling etc.
  * All of those concept might be found on my github page: https://github.com/zipoz89?tab=repositories
+ * All shaders are also made in 100% by me
  */
 public class GameController : MonoBehaviour
 {
